@@ -1,0 +1,9 @@
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:03,093 com.fcrm.base.BaseTest.initExtentReport(BaseTest.java:60) Initializing Extent Report 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:03,537 com.fcrm.base.BaseTest.initBrowser(BaseTest.java:83) Execution Started in the Browser:Chrome 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:03,548 com.fcrm.base.BaseTest.initApp(BaseTest.java:100) Application Opened 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:18,819 com.fcrm.base.BaseTest.preCondition(BaseTest.java:134) Implicit Login 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:31,823 com.fcrm.scripts.VerifyImplicitLoginLogout.testImplicitLoginLogout(VerifyImplicitLoginLogout.java:20) Implicit Login Logout Passed 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:33,710 com.fcrm.base.BaseTest.postCondition(BaseTest.java:156) Implicit Logout 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:34,113 com.fcrm.base.BaseTest.closeApp(BaseTest.java:122) Closing Application 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:35,154 com.fcrm.base.BaseTest.closeBrowser(BaseTest.java:92) Execution Ended in the Browser:Chrome 
+com.fcrm.scripts.VerifyImplicitLoginLogout 2018-05-26 02:07:35,197 com.fcrm.base.BaseTest.closeExtentReport(BaseTest.java:74) Closing Extent Report 

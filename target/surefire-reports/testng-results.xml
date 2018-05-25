@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case Started:Test]]>
+    </line>
+    <line>
+      <![CDATA[Test Started:testImplicitLoginLogout]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31627" started-at="2018-05-25T20:37:03Z" finished-at="2018-05-25T20:37:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31627" started-at="2018-05-25T20:37:03Z" finished-at="2018-05-25T20:37:35Z">
+      <class name="com.fcrm.scripts.VerifyImplicitLoginLogout">
+        <test-method status="PASS" signature="initExtentReport()[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="initExtentReport" is-config="true" duration-ms="457" started-at="2018-05-26T02:07:03Z" finished-at="2018-05-26T02:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentReport -->
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="initBrowser" is-config="true" duration-ms="8" started-at="2018-05-26T02:07:03Z" finished-at="2018-05-26T02:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="initApp(java.lang.String)[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="initApp" is-config="true" duration-ms="15242" started-at="2018-05-26T02:07:03Z" finished-at="2018-05-26T02:07:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApp -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="preCondition" is-config="true" duration-ms="13008" started-at="2018-05-26T02:07:18Z" finished-at="2018-05-26T02:07:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.fcrm.scripts.VerifyImplicitLoginLogout.testImplicitLoginLogout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testImplicitLoginLogout()[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="testImplicitLoginLogout" duration-ms="5" started-at="2018-05-26T02:07:31Z" finished-at="2018-05-26T02:07:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started:testImplicitLoginLogout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testImplicitLoginLogout -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="postCondition" is-config="true" duration-ms="402" started-at="2018-05-26T02:07:33Z" finished-at="2018-05-26T02:07:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testImplicitLoginLogout status=SUCCESS method=VerifyImplicitLoginLogout.testImplicitLoginLogout()[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95] output=Test Started:testImplicitLoginLogout]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="closeApp" is-config="true" duration-ms="1037" started-at="2018-05-26T02:07:34Z" finished-at="2018-05-26T02:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2018-05-26T02:07:35Z" finished-at="2018-05-26T02:07:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.fcrm.scripts.VerifyImplicitLoginLogout@6093dd95]" name="closeExtentReport" is-config="true" duration-ms="1028" started-at="2018-05-26T02:07:35Z" finished-at="2018-05-26T02:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeExtentReport -->
+      </class> <!-- com.fcrm.scripts.VerifyImplicitLoginLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
